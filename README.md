@@ -1,4 +1,4 @@
-# Introduction
+# Introduction (This project uses the full up-to-date [2026] dataset)
     This project provides a comprehensive analysis of the data job market, specifically focusing on data analyst roles. It evaluates high-paying opportunities, identifies key in-demand skills, and explores the intersection of market demand and salary potential within the analytics industry.
 
     Here are the SQL queries: [project_sql folder](/project_sql/)
